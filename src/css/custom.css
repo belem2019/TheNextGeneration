@@ -6,14 +6,32 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary: #498eff;
+  --ifm-color-primary-dark: #287aff;
+  --ifm-color-primary-darker: #186fff;
+  --ifm-color-primary-darkest: #0057e6;
+  --ifm-color-primary-light: #6aa2ff;
+  --ifm-color-primary-lighter: #7aadff;
+  --ifm-color-primary-lightest: #abcbff;
   --ifm-code-font-size: 95%;
+
+  --ifm-font-family-base: 'Source Sans Pro', 'Helvetica Neue', Arial,sans-serif;
+  --ifm-font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+    'Liberation Mono', 'Courier New', monospace;
+  --ifm-font-size-base: 14px;
+  -webkit-font-smoothing: antialiased;
+
+  --ifm-global-radius: 0px;
+  --ifm-button-border-radius: 0px;
+  --ifm-pagination-nav-border-radius: 0px;
+
+  --ifm-menu-link-padding-vertical: 0.5rem;
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary: #abcbff;
+  --ifm-color-primary-dark: #7aadff;
+  /* any other colors you wish to overwrite */
 }
 
 .docusaurus-highlight-code-line {
@@ -25,4 +43,46 @@
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme='dark']  .hero--primary {
+  --ifm-hero-background-color: rgba(0, 0, 0, 0.1);
+}
+
+html[data-theme='dark'] .hero__title {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+p {
+  color: #34495e;
+}
+
+.hero--primary p {
+  color:rgba(255, 255, 255, 1.0);
+}
+
+.hero__title {
+  font-size: 2rem;
+}
+
+.hero__subtitle {
+  font-size: 1rem;
+}
+
+.docTitle_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocItem- {
+  font-size: 2rem !important;
+  color: #34495e;
+}
+
+.menu__link {
+  border-radius: 0rem;
+}
+
+.menu__link--sublist:after {
+  height: 0.75rem;
+  width: 0.75rem;
+}
+
+blockquote {
+  border-left: 1px solid var(--ifm-color-emphasis-300);
 }
