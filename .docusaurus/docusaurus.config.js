@@ -43,6 +43,11 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
+        },
+        {
+          "href": "https://github.com/belem/",
+          "label": "GitHub",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
