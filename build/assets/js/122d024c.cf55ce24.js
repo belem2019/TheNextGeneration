@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklife=self.webpackChunklife||[]).push([[8590],{8271:function(s){s.exports=JSON.parse('{"name":"\u6c88\u5cf0","permalink":"/docs/tags/\u6c88\u5cf0","docs":[{"id":"\u5728\u4e01\u4e2d/dz-sf","title":"\u6c88\u5cf0\u7684\u53ea\u8a00\u7247\u8bed","description":"2000 \u5e74 - 2003 \u5e74","permalink":"/docs/dz-sf"}],"allTagsPath":"/docs/tags"}')}}]);
