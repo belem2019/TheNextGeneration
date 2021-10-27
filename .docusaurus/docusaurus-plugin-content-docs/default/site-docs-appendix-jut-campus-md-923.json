@@ -1,0 +1,35 @@
+{
+  "unversionedId": "appendix/appendix-jut-campus",
+  "id": "appendix/appendix-jut-campus",
+  "isDocsHomePage": false,
+  "title": "吉林工业大学校园建设和历史建筑的沿革探源",
+  "description": "修订版",
+  "source": "@site/docs/appendix/jut-campus.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix-jut-campus",
+  "permalink": "/docs/appendix-jut-campus",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/appendix/jut-campus.md",
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "id": "appendix-jut-campus",
+    "slug": "../appendix-jut-campus",
+    "title": "吉林工业大学校园建设和历史建筑的沿革探源",
+    "sidebar_position": 20,
+    "tags": [
+      "JUT",
+      "JLU",
+      "吉林工业大学",
+      "吉林工大",
+      "吉林大学",
+      "吉林大学东区",
+      "长春",
+      "吉林"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "教师名录",
+    "permalink": "/docs/appendix-teachers"
+  }
+}

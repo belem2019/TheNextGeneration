@@ -1,0 +1,32 @@
+{
+  "unversionedId": "在丁中/dz-recall",
+  "id": "在丁中/dz-recall",
+  "isDocsHomePage": false,
+  "title": "为了皓首回眸时",
+  "description": "一页入学通知书虽然很小，",
+  "source": "@site/docs\\03-在丁中\\recall.md",
+  "sourceDirName": "03-在丁中",
+  "slug": "/dz-recall",
+  "permalink": "/docs/dz-recall",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/03-在丁中\\recall.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "dz-recall",
+    "slug": "../dz-recall",
+    "title": "为了皓首回眸时",
+    "tags": [
+      "丁沟",
+      "丁中",
+      "丁沟中学"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "童年",
+    "permalink": "/docs/childhood"
+  },
+  "next": {
+    "title": "沈峰的只言片语",
+    "permalink": "/docs/dz-sf"
+  }
+}

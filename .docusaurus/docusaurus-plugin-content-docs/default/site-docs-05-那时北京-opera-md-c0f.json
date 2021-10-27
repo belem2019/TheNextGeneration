@@ -1,0 +1,33 @@
+{
+  "unversionedId": "那时北京/beijing-opera",
+  "id": "那时北京/beijing-opera",
+  "isDocsHomePage": false,
+  "title": "Opera Software ASA，引以为傲的荣光",
+  "description": "2013-06-30",
+  "source": "@site/docs\\05-那时北京\\opera.md",
+  "sourceDirName": "05-那时北京",
+  "slug": "/beijing/opera",
+  "permalink": "/docs/beijing/opera",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\opera.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "beijing-opera",
+    "slug": "../beijing/opera",
+    "title": "Opera Software ASA，引以为傲的荣光",
+    "sidebar_position": 2,
+    "tags": [
+      "北京",
+      "Opera"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Windows Live Spaces，那仅存的一丝记忆",
+    "permalink": "/docs/beijing/wls"
+  },
+  "next": {
+    "title": "QA Team，熟悉的你们",
+    "permalink": "/docs/beijing/opera-qa"
+  }
+}

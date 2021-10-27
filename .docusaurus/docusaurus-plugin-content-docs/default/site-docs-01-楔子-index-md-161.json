@@ -1,0 +1,30 @@
+{
+  "unversionedId": "楔子/preface",
+  "id": "楔子/preface",
+  "isDocsHomePage": false,
+  "title": "楔子",
+  "description": "A 地的父亲和 B 地的母亲在 C 地组织了家庭，成长在 C 地的孩子对于父辈家乡 A 和 B 地的人和事的了解越发贫瘠。",
+  "source": "@site/docs\\01-楔子\\index.md",
+  "sourceDirName": "01-楔子",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/01-楔子\\index.md",
+  "version": "current",
+  "sidebar_label": "楔子",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "preface",
+    "slug": "/",
+    "title": "楔子",
+    "sidebar_label": "楔子",
+    "sidebar_position": 10,
+    "tags": [
+      "楔子"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "童年",
+    "permalink": "/docs/childhood"
+  }
+}

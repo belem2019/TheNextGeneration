@@ -1,0 +1,37 @@
+{
+  "unversionedId": "我的大学/jut-1",
+  "id": "我的大学/jut-1",
+  "isDocsHomePage": false,
+  "title": "我的大学",
+  "description": "...",
+  "source": "@site/docs\\04-我的大学\\index.md",
+  "sourceDirName": "04-我的大学",
+  "slug": "/jut-1",
+  "permalink": "/docs/jut-1",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/04-我的大学\\index.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "jut-1",
+    "slug": "../jut-1",
+    "title": "我的大学",
+    "tags": [
+      "JUT",
+      "JLU",
+      "吉林工业大学",
+      "吉林工大",
+      "吉林大学",
+      "吉林大学东区",
+      "长春",
+      "吉林"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "沈峰的只言片语",
+    "permalink": "/docs/dz-sf"
+  },
+  "next": {
+    "title": "Windows Live Spaces，那仅存的一丝记忆",
+    "permalink": "/docs/beijing/wls"
+  }
+}

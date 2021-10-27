@@ -1,0 +1,139 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "楔子",
+        "items": [
+          {
+            "type": "link",
+            "label": "楔子",
+            "href": "/docs/"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "童年",
+        "items": [
+          {
+            "type": "link",
+            "label": "童年",
+            "href": "/docs/childhood"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "在丁中",
+        "items": [
+          {
+            "type": "link",
+            "label": "为了皓首回眸时",
+            "href": "/docs/dz-recall"
+          },
+          {
+            "type": "link",
+            "label": "沈峰的只言片语",
+            "href": "/docs/dz-sf"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "我的大学",
+        "items": [
+          {
+            "type": "link",
+            "label": "我的大学",
+            "href": "/docs/jut-1"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "那时北京",
+        "items": [
+          {
+            "type": "link",
+            "label": "Windows Live Spaces，那仅存的一丝记忆",
+            "href": "/docs/beijing/wls"
+          },
+          {
+            "type": "link",
+            "label": "Opera Software ASA，引以为傲的荣光",
+            "href": "/docs/beijing/opera"
+          },
+          {
+            "type": "link",
+            "label": "QA Team，熟悉的你们",
+            "href": "/docs/beijing/opera-qa"
+          },
+          {
+            "type": "link",
+            "label": "欧朋，收获希望，一路前行",
+            "href": "/docs/beijing/nhorizon"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "上海这些年",
+        "items": [
+          {
+            "type": "link",
+            "label": "上海这些年",
+            "href": "/docs/shanghai"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "appendix",
+        "items": [
+          {
+            "type": "link",
+            "label": "区划沿革",
+            "href": "/docs/appendix-administrative-divisions"
+          },
+          {
+            "type": "link",
+            "label": "教师名录",
+            "href": "/docs/appendix-teachers"
+          },
+          {
+            "type": "link",
+            "label": "吉林工业大学校园建设和历史建筑的沿革探源",
+            "href": "/docs/appendix-jut-campus"
+          }
+        ],
+        "collapsed": true
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/appendix-administrative-divisions": "tutorialSidebar",
+    "/docs/appendix-jut-campus": "tutorialSidebar",
+    "/docs/appendix-teachers": "tutorialSidebar",
+    "/docs/shanghai": "tutorialSidebar",
+    "/docs/dz-recall": "tutorialSidebar",
+    "/docs/dz-sf": "tutorialSidebar",
+    "/docs/jut-1": "tutorialSidebar",
+    "/docs/": "tutorialSidebar",
+    "/docs/childhood": "tutorialSidebar",
+    "/docs/beijing/nhorizon": "tutorialSidebar",
+    "/docs/beijing/opera": "tutorialSidebar",
+    "/docs/beijing/opera-qa": "tutorialSidebar",
+    "/docs/beijing/wls": "tutorialSidebar"
+  }
+}

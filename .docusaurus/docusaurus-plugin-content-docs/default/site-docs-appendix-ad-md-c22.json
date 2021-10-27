@@ -1,0 +1,35 @@
+{
+  "unversionedId": "appendix/appendix-administrative-divisions",
+  "id": "appendix/appendix-administrative-divisions",
+  "isDocsHomePage": false,
+  "title": "区划沿革",
+  "description": "被丁东村合并年份未确认",
+  "source": "@site/docs/appendix/ad.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix-administrative-divisions",
+  "permalink": "/docs/appendix-administrative-divisions",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/appendix/ad.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "appendix-administrative-divisions",
+    "slug": "../appendix-administrative-divisions",
+    "title": "区划沿革",
+    "sidebar_position": 1,
+    "tags": [
+      "丁沟",
+      "区划",
+      "江都",
+      "扬州"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "上海这些年",
+    "permalink": "/docs/shanghai"
+  },
+  "next": {
+    "title": "教师名录",
+    "permalink": "/docs/appendix-teachers"
+  }
+}

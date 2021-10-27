@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklife=self.webpackChunklife||[]).push([[7441],{7645:function(s){s.exports=JSON.parse('{"name":"\u7ae5\u5e74","permalink":"/docs/tags/\u7ae5\u5e74","docs":[{"id":"\u7ae5\u5e74/childhood","title":"\u7ae5\u5e74","description":"...","permalink":"/docs/childhood"}],"allTagsPath":"/docs/tags"}')}}]);
