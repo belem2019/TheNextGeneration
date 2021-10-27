@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "appendix/appendix-jut-happy-100",
+              "path": "/docs/appendix-jut-happy-100",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "appendix/appendix-teachers",
               "path": "/docs/appendix-teachers",
               "sidebar": "tutorialSidebar"

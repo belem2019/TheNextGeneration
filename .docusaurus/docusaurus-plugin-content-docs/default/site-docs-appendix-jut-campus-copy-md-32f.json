@@ -1,0 +1,35 @@
+{
+  "unversionedId": "appendix/appendix-jut-happy-100",
+  "id": "appendix/appendix-jut-happy-100",
+  "isDocsHomePage": false,
+  "title": "吉林工业大学的 100 种死法",
+  "description": "再次看到 100 种死法, 怀念的是吉林工大. -- Belem",
+  "source": "@site/docs/appendix/jut-campus copy.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix-jut-happy-100",
+  "permalink": "/docs/appendix-jut-happy-100",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/appendix/jut-campus copy.md",
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "id": "appendix-jut-happy-100",
+    "slug": "../appendix-jut-happy-100",
+    "title": "吉林工业大学的 100 种死法",
+    "sidebar_position": 30,
+    "tags": [
+      "JUT",
+      "JLU",
+      "吉林工业大学",
+      "吉林工大",
+      "吉林大学",
+      "吉林大学东区",
+      "长春",
+      "吉林"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "吉林工业大学校园建设和历史建筑的沿革探源",
+    "permalink": "/docs/appendix-jut-campus"
+  }
+}

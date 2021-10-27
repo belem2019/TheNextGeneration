@@ -115,6 +115,11 @@
             "type": "link",
             "label": "吉林工业大学校园建设和历史建筑的沿革探源",
             "href": "/docs/appendix-jut-campus"
+          },
+          {
+            "type": "link",
+            "label": "吉林工业大学的 100 种死法",
+            "href": "/docs/appendix-jut-happy-100"
           }
         ],
         "collapsed": true
@@ -124,6 +129,7 @@
   "permalinkToSidebar": {
     "/docs/appendix-administrative-divisions": "tutorialSidebar",
     "/docs/appendix-jut-campus": "tutorialSidebar",
+    "/docs/appendix-jut-happy-100": "tutorialSidebar",
     "/docs/appendix-teachers": "tutorialSidebar",
     "/docs/shanghai": "tutorialSidebar",
     "/docs/dz-recall": "tutorialSidebar",

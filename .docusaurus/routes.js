@@ -89,7 +89,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','cad'),
+  component: ComponentCreator('/docs','d8c'),
   
   routes: [
 {
@@ -105,6 +105,11 @@ export default [
 {
   path: '/docs/appendix-jut-campus',
   component: ComponentCreator('/docs/appendix-jut-campus','fff'),
+  exact: true,
+},
+{
+  path: '/docs/appendix-jut-happy-100',
+  component: ComponentCreator('/docs/appendix-jut-happy-100','223'),
   exact: true,
 },
 {
