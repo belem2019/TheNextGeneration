@@ -10,12 +10,12 @@
   "permalink": "/docs/beijing/opera",
   "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\opera.md",
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 20,
   "frontMatter": {
     "id": "beijing-opera",
     "slug": "../beijing/opera",
     "title": "Opera Software ASA，引以为傲的荣光",
-    "sidebar_position": 2,
+    "sidebar_position": 20,
     "tags": [
       "北京",
       "Opera"
@@ -23,8 +23,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Windows Live Spaces，那仅存的一丝记忆",
-    "permalink": "/docs/beijing/wls"
+    "title": "心中有憾",
+    "permalink": "/docs/beijing/grandma-at-home-passed-away"
   },
   "next": {
     "title": "QA Team，熟悉的你们",

@@ -10,12 +10,12 @@
   "permalink": "/docs/beijing/wls",
   "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\wls.md",
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 5,
   "frontMatter": {
     "id": "beijing-wls",
     "slug": "../beijing/wls",
     "title": "Windows Live Spaces，那仅存的一丝记忆",
-    "sidebar_position": 1,
+    "sidebar_position": 5,
     "tags": [
       "北京",
       "Spaces",
@@ -29,7 +29,7 @@
     "permalink": "/docs/jut-1"
   },
   "next": {
-    "title": "Opera Software ASA，引以为傲的荣光",
-    "permalink": "/docs/beijing/opera"
+    "title": "心中有憾",
+    "permalink": "/docs/beijing/grandma-at-home-passed-away"
   }
 }

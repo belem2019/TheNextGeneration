@@ -89,7 +89,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','d8c'),
+  component: ComponentCreator('/docs','1b8'),
   
   routes: [
 {
@@ -99,22 +99,27 @@ export default [
 },
 {
   path: '/docs/appendix-administrative-divisions',
-  component: ComponentCreator('/docs/appendix-administrative-divisions','e1c'),
+  component: ComponentCreator('/docs/appendix-administrative-divisions','16a'),
   exact: true,
 },
 {
   path: '/docs/appendix-jut-campus',
-  component: ComponentCreator('/docs/appendix-jut-campus','fff'),
+  component: ComponentCreator('/docs/appendix-jut-campus','503'),
   exact: true,
 },
 {
   path: '/docs/appendix-jut-happy-100',
-  component: ComponentCreator('/docs/appendix-jut-happy-100','223'),
+  component: ComponentCreator('/docs/appendix-jut-happy-100','225'),
   exact: true,
 },
 {
   path: '/docs/appendix-teachers',
-  component: ComponentCreator('/docs/appendix-teachers','1e6'),
+  component: ComponentCreator('/docs/appendix-teachers','7d8'),
+  exact: true,
+},
+{
+  path: '/docs/beijing/grandma-at-home-passed-away',
+  component: ComponentCreator('/docs/beijing/grandma-at-home-passed-away','8f2'),
   exact: true,
 },
 {

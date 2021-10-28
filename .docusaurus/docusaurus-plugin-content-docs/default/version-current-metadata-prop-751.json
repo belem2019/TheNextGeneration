@@ -69,6 +69,11 @@
           },
           {
             "type": "link",
+            "label": "心中有憾",
+            "href": "/docs/beijing/grandma-at-home-passed-away"
+          },
+          {
+            "type": "link",
             "label": "Opera Software ASA，引以为傲的荣光",
             "href": "/docs/beijing/opera"
           },
@@ -99,7 +104,7 @@
       },
       {
         "type": "category",
-        "label": "appendix",
+        "label": "附录",
         "items": [
           {
             "type": "link",
@@ -127,10 +132,6 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/appendix-administrative-divisions": "tutorialSidebar",
-    "/docs/appendix-jut-campus": "tutorialSidebar",
-    "/docs/appendix-jut-happy-100": "tutorialSidebar",
-    "/docs/appendix-teachers": "tutorialSidebar",
     "/docs/shanghai": "tutorialSidebar",
     "/docs/dz-recall": "tutorialSidebar",
     "/docs/dz-sf": "tutorialSidebar",
@@ -140,6 +141,11 @@
     "/docs/beijing/nhorizon": "tutorialSidebar",
     "/docs/beijing/opera": "tutorialSidebar",
     "/docs/beijing/opera-qa": "tutorialSidebar",
-    "/docs/beijing/wls": "tutorialSidebar"
+    "/docs/beijing/wls": "tutorialSidebar",
+    "/docs/beijing/grandma-at-home-passed-away": "tutorialSidebar",
+    "/docs/appendix-administrative-divisions": "tutorialSidebar",
+    "/docs/appendix-jut-campus": "tutorialSidebar",
+    "/docs/appendix-jut-happy-100": "tutorialSidebar",
+    "/docs/appendix-teachers": "tutorialSidebar"
   }
 }

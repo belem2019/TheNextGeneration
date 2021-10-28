@@ -11,26 +11,6 @@
           "mainDocId": "楔子/preface",
           "docs": [
             {
-              "id": "appendix/appendix-administrative-divisions",
-              "path": "/docs/appendix-administrative-divisions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "appendix/appendix-jut-campus",
-              "path": "/docs/appendix-jut-campus",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "appendix/appendix-jut-happy-100",
-              "path": "/docs/appendix-jut-happy-100",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "appendix/appendix-teachers",
-              "path": "/docs/appendix-teachers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "上海这些年/shanghai",
               "path": "/docs/shanghai",
               "sidebar": "tutorialSidebar"
@@ -78,6 +58,31 @@
             {
               "id": "那时北京/beijing-wls",
               "path": "/docs/beijing/wls",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "那时北京/grandma-at-home-passed-away",
+              "path": "/docs/beijing/grandma-at-home-passed-away",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "附录/appendix-administrative-divisions",
+              "path": "/docs/appendix-administrative-divisions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "附录/appendix-jut-campus",
+              "path": "/docs/appendix-jut-campus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "附录/appendix-jut-happy-100",
+              "path": "/docs/appendix-jut-happy-100",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "附录/appendix-teachers",
+              "path": "/docs/appendix-teachers",
               "sidebar": "tutorialSidebar"
             }
           ]

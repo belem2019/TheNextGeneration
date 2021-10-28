@@ -10,12 +10,12 @@
   "permalink": "/docs/beijing/opera-qa",
   "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\qa.md",
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 25,
   "frontMatter": {
     "id": "beijing-opera-qa",
     "slug": "../beijing/opera-qa",
     "title": "QA Team，熟悉的你们",
-    "sidebar_position": 3,
+    "sidebar_position": 25,
     "tags": [
       "北京",
       "Opera"
