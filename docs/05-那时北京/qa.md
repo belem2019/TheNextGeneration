@@ -2,7 +2,7 @@
 id: beijing-opera-qa
 slug: ../beijing/opera-qa
 title: QA Team，熟悉的你们
-sidebar_position: 3
+sidebar_position: 25
 tags:
   - 北京
   - Opera

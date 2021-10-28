@@ -2,7 +2,7 @@
 id: beijing-wls
 slug: ../beijing/wls
 title: Windows Live Spaces，那仅存的一丝记忆
-sidebar_position: 1
+sidebar_position: 5
 tags:
   - 北京
   - Spaces

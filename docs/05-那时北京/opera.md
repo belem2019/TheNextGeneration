@@ -2,7 +2,7 @@
 id: beijing-opera
 slug: ../beijing/opera
 title: Opera Software ASA，引以为傲的荣光
-sidebar_position: 2
+sidebar_position: 20
 tags:
   - 北京
   - Opera

@@ -2,7 +2,7 @@
 id: beijing-nhorizon
 slug: ../beijing/nhorizon
 title: 欧朋，收获希望，一路前行
-sidebar_position: 4
+sidebar_position: 26
 tags:
   - 北京
   - nHorizon
