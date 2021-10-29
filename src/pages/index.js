@@ -16,7 +16,7 @@ function HomepageHeader() {
         <p>一位父亲的人生故事</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className="button button--lg ug"
             to="/docs">
             想好了，阅读
           </Link>

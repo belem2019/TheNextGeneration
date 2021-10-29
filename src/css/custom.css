@@ -6,13 +6,17 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #498eff;
-  --ifm-color-primary-dark: #287aff;
-  --ifm-color-primary-darker: #186fff;
-  --ifm-color-primary-darkest: #0057e6;
-  --ifm-color-primary-light: #6aa2ff;
-  --ifm-color-primary-lighter: #7aadff;
-  --ifm-color-primary-lightest: #abcbff;
+  --ifm-btn-color: rgb(255, 31, 176, 1.0);
+  --ifm-btn-color-darker: rgb(255, 21, 156, 1.0);
+  --ifm-color-primary: #2c67d4;
+  --ifm-color-primary-dark: #275dbf;
+  --ifm-color-primary-darker: #2557b5;
+  --ifm-color-primary-darkest: #1e4895;
+  --ifm-color-primary-light: #4176d8;
+  --ifm-color-primary-lighter: #4c7edb;
+  --ifm-color-primary-lightest: #6c95e1;
+
+  --ifm-footer-background-color: #2c67d4;
   --ifm-code-font-size: 95%;
 
   --ifm-color-secondary: #abcbff;
@@ -57,7 +61,6 @@ html[data-theme='dark'] .hero__title {
 
 p {
   color: #34495e;
-  word-spacing: 2px; 
   letter-spacing: 2px;
 }
 
@@ -99,6 +102,43 @@ blockquote {
   height: 100%;
 }
 
+.button {
+  background-color: var(--ifm-btn-color);
+  border-color: rgba(255, 255, 255, 0.8);
+  font-weight: 200;
+}
+
+.button:hover {
+  background-color: var(--ifm-btn-color-darker);
+  color:rgba(255, 255, 255, 1.0);
+  border-color:rgba(255, 255, 255, 1.0);
+}
+
+.ug {
+  box-shadow: 0 0.1rem 0.85rem rgb(0 0 0 / 25%);
+}
+
+.footer {
+  background-color: var(--ifm-footer-background-color) !important;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #2c67d4;
+}
+
+
+html[data-theme='dark'] .hero--primary {
+  --ifm-hero-background-color: rgba(36, 37, 38, 0.2);
+}
+
+html[data-theme='dark'] .footer--dark {
+  --ifm-footer-background-color: rgb(36, 37, 38);
+}
+
 .button.button--secondary {
-  --ifm-button-border-color: var(--ifm-color-secondary);
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.button.button--secondary:hover {
+  color: rgba(255, 255, 255, 1);
 }
