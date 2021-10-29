@@ -26,12 +26,12 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/belem2019/thenextgeneration/doc',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/belem2019/thenextgeneration/blog',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   editUrl:
+        //     'https://github.com/belem2019/thenextgeneration/blog',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -54,7 +54,7 @@ const config = {
             position: 'left',
             label: '三阳河',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/belem/',
             label: 'GitHub',
@@ -86,10 +86,10 @@ const config = {
           {
             title: '其他',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/ibelem',
@@ -104,6 +104,11 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  
+  scripts: [
+    './static/js/three.min.js',
+    './static/js/home.js',
+  ],
 };
 
 module.exports = config;

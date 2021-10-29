@@ -16,10 +16,6 @@ export default {
           "sidebarPath": "C:\\p\\github\\TheNextGeneration\\sidebars.js",
           "editUrl": "https://github.com/belem2019/thenextgeneration/doc"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/belem2019/thenextgeneration/blog"
-        },
         "theme": {
           "customCss": "C:\\p\\github\\TheNextGeneration\\src\\css\\custom.css"
         }
@@ -38,11 +34,6 @@ export default {
           "to": "/docs/",
           "position": "left",
           "label": "三阳河"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
         },
         {
           "href": "https://github.com/belem/",
@@ -76,10 +67,6 @@ export default {
         {
           "title": "其他",
           "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
             {
               "label": "GitHub",
               "href": "https://github.com/ibelem"
@@ -287,6 +274,10 @@ export default {
     "metadatas": [],
     "hideableSidebar": false
   },
+  "scripts": [
+    "./static/js/three.min.js",
+    "./static/js/home.js"
+  ],
   "baseUrlIssueBanner": true,
   "i18n": {
     "defaultLocale": "en",
