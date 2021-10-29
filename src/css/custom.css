@@ -61,7 +61,8 @@ html[data-theme='dark'] .hero__title {
 
 p {
   color: #34495e;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
+  line-height: 1.8;
 }
 
 .hero--primary p {
