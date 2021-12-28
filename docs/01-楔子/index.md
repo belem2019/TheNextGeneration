@@ -19,6 +19,7 @@ tags:
 
 > 2002 年 8 月 1 日深夜 1 时多，爷爷去世。<br/>
 > 2010 年 3 月 1 日前后，奶奶去世。<br/>
+> 2014 年 6 月 2 日农历五月初五端午下午 5 时，外婆去世。<br/>
 > 2021 年 9 月 21 日农历八月十五深夜 2 时 52 分，父亲去世。<br/>
 > Your father now lives within your daughter's spirit
 
