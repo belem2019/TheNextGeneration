@@ -275,8 +275,8 @@ export default {
     "hideableSidebar": false
   },
   "scripts": [
-    "./static/js/three.min.js",
-    "./static/js/home.js"
+    "../js/three.min.js",
+    "../js/home.js"
   ],
   "baseUrlIssueBanner": true,
   "i18n": {
