@@ -1,0 +1,820 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/belem2019/thenextgeneration/doc/docs",
+          "versionEditUrlLocalized": "https://github.com/belem2019/thenextgeneration/doc/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\p\\github\\TheNextGeneration\\sidebars.js",
+          "contentPath": "C:\\p\\github\\TheNextGeneration\\docs",
+          "contentPathLocalized": "C:\\p\\github\\TheNextGeneration\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "楔子/preface",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "楔子",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "楔子/preface",
+                    "label": "楔子"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "童年",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "童年/childhood",
+                    "label": "童年"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "在丁中",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "在丁中/dz-recall"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "在丁中/dz-sf"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "我的大学",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "我的大学/jut-1"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "那时北京",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "那时北京/beijing-wls"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "那时北京/grandma-at-home-passed-away"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "那时北京/beijing-opera"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "那时北京/beijing-opera-qa"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "那时北京/beijing-nhorizon"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "上海这些年",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "上海这些年/shanghai",
+                    "label": "上海这些年"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "附录",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "附录/appendix-administrative-divisions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "附录/appendix-teachers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "附录/appendix-jut-campus"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "附录/appendix-jut-happy-100"
+                  }
+                ],
+                "collapsed": true
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/shanghai": "tutorialSidebar",
+            "/docs/dz-recall": "tutorialSidebar",
+            "/docs/dz-sf": "tutorialSidebar",
+            "/docs/jut-1": "tutorialSidebar",
+            "/docs/": "tutorialSidebar",
+            "/docs/childhood": "tutorialSidebar",
+            "/docs/beijing/nhorizon": "tutorialSidebar",
+            "/docs/beijing/opera": "tutorialSidebar",
+            "/docs/beijing/opera-qa": "tutorialSidebar",
+            "/docs/beijing/wls": "tutorialSidebar",
+            "/docs/beijing/grandma-at-home-passed-away": "tutorialSidebar",
+            "/docs/appendix-administrative-divisions": "tutorialSidebar",
+            "/docs/appendix-jut-campus": "tutorialSidebar",
+            "/docs/appendix-jut-happy-100": "tutorialSidebar",
+            "/docs/appendix-teachers": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "上海这些年/shanghai",
+              "id": "上海这些年/shanghai",
+              "isDocsHomePage": false,
+              "title": "上海这些年",
+              "description": "...",
+              "source": "@site/docs\\06-上海这些年\\index.md",
+              "sourceDirName": "06-上海这些年",
+              "slug": "/shanghai",
+              "permalink": "/docs/shanghai",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/06-上海这些年\\index.md",
+              "version": "current",
+              "sidebar_label": "上海这些年",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "shanghai",
+                "slug": "../shanghai",
+                "title": "上海这些年",
+                "sidebar_label": "上海这些年",
+                "sidebar_position": 1,
+                "tags": [
+                  "上海"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "欧朋，收获希望，一路前行",
+                "permalink": "/docs/beijing/nhorizon"
+              },
+              "next": {
+                "title": "区划沿革",
+                "permalink": "/docs/appendix-administrative-divisions"
+              }
+            },
+            {
+              "unversionedId": "在丁中/dz-recall",
+              "id": "在丁中/dz-recall",
+              "isDocsHomePage": false,
+              "title": "为了皓首回眸时",
+              "description": "一页入学通知书虽然很小，",
+              "source": "@site/docs\\03-在丁中\\recall.md",
+              "sourceDirName": "03-在丁中",
+              "slug": "/dz-recall",
+              "permalink": "/docs/dz-recall",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/03-在丁中\\recall.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "dz-recall",
+                "slug": "../dz-recall",
+                "title": "为了皓首回眸时",
+                "tags": [
+                  "丁沟",
+                  "丁中",
+                  "丁沟中学"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "童年",
+                "permalink": "/docs/childhood"
+              },
+              "next": {
+                "title": "沈峰的只言片语",
+                "permalink": "/docs/dz-sf"
+              }
+            },
+            {
+              "unversionedId": "在丁中/dz-sf",
+              "id": "在丁中/dz-sf",
+              "isDocsHomePage": false,
+              "title": "沈峰的只言片语",
+              "description": "2000 年 - 2003 年",
+              "source": "@site/docs\\03-在丁中\\sf.md",
+              "sourceDirName": "03-在丁中",
+              "slug": "/dz-sf",
+              "permalink": "/docs/dz-sf",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/03-在丁中\\sf.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "dz-sf",
+                "slug": "../dz-sf",
+                "title": "沈峰的只言片语",
+                "tags": [
+                  "丁中",
+                  "丁沟中学",
+                  "沈峰",
+                  "丁沟"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "为了皓首回眸时",
+                "permalink": "/docs/dz-recall"
+              },
+              "next": {
+                "title": "我的大学",
+                "permalink": "/docs/jut-1"
+              }
+            },
+            {
+              "unversionedId": "我的大学/jut-1",
+              "id": "我的大学/jut-1",
+              "isDocsHomePage": false,
+              "title": "我的大学",
+              "description": "...",
+              "source": "@site/docs\\04-我的大学\\index.md",
+              "sourceDirName": "04-我的大学",
+              "slug": "/jut-1",
+              "permalink": "/docs/jut-1",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/04-我的大学\\index.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "jut-1",
+                "slug": "../jut-1",
+                "title": "我的大学",
+                "tags": [
+                  "JUT",
+                  "JLU",
+                  "吉林工业大学",
+                  "吉林工大",
+                  "吉林大学",
+                  "吉林大学东区",
+                  "长春",
+                  "吉林"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "沈峰的只言片语",
+                "permalink": "/docs/dz-sf"
+              },
+              "next": {
+                "title": "Windows Live Spaces，那仅存的一丝记忆",
+                "permalink": "/docs/beijing/wls"
+              }
+            },
+            {
+              "unversionedId": "楔子/preface",
+              "id": "楔子/preface",
+              "isDocsHomePage": false,
+              "title": "楔子",
+              "description": "我的故事。",
+              "source": "@site/docs\\01-楔子\\index.md",
+              "sourceDirName": "01-楔子",
+              "slug": "/",
+              "permalink": "/docs/",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/01-楔子\\index.md",
+              "version": "current",
+              "sidebar_label": "楔子",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "id": "preface",
+                "slug": "/",
+                "title": "楔子",
+                "sidebar_label": "楔子",
+                "sidebar_position": 10,
+                "tags": [
+                  "楔子"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "童年",
+                "permalink": "/docs/childhood"
+              }
+            },
+            {
+              "unversionedId": "童年/childhood",
+              "id": "童年/childhood",
+              "isDocsHomePage": false,
+              "title": "童年",
+              "description": "...",
+              "source": "@site/docs\\02-童年\\index.md",
+              "sourceDirName": "02-童年",
+              "slug": "/childhood",
+              "permalink": "/docs/childhood",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/02-童年\\index.md",
+              "version": "current",
+              "sidebar_label": "童年",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "childhood",
+                "slug": "../childhood",
+                "title": "童年",
+                "sidebar_label": "童年",
+                "sidebar_position": 2,
+                "tags": [
+                  "童年",
+                  "丁沟"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "楔子",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "为了皓首回眸时",
+                "permalink": "/docs/dz-recall"
+              }
+            },
+            {
+              "unversionedId": "那时北京/beijing-nhorizon",
+              "id": "那时北京/beijing-nhorizon",
+              "isDocsHomePage": false,
+              "title": "欧朋，收获希望，一路前行",
+              "description": "2013-07-05",
+              "source": "@site/docs\\05-那时北京\\nhorizon.md",
+              "sourceDirName": "05-那时北京",
+              "slug": "/beijing/nhorizon",
+              "permalink": "/docs/beijing/nhorizon",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\nhorizon.md",
+              "version": "current",
+              "sidebarPosition": 26,
+              "frontMatter": {
+                "id": "beijing-nhorizon",
+                "slug": "../beijing/nhorizon",
+                "title": "欧朋，收获希望，一路前行",
+                "sidebar_position": 26,
+                "tags": [
+                  "北京",
+                  "nHorizon",
+                  "欧朋"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "QA Team，熟悉的你们",
+                "permalink": "/docs/beijing/opera-qa"
+              },
+              "next": {
+                "title": "上海这些年",
+                "permalink": "/docs/shanghai"
+              }
+            },
+            {
+              "unversionedId": "那时北京/beijing-opera",
+              "id": "那时北京/beijing-opera",
+              "isDocsHomePage": false,
+              "title": "Opera Software ASA，引以为傲的荣光",
+              "description": "2013-06-30",
+              "source": "@site/docs\\05-那时北京\\opera.md",
+              "sourceDirName": "05-那时北京",
+              "slug": "/beijing/opera",
+              "permalink": "/docs/beijing/opera",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\opera.md",
+              "version": "current",
+              "sidebarPosition": 20,
+              "frontMatter": {
+                "id": "beijing-opera",
+                "slug": "../beijing/opera",
+                "title": "Opera Software ASA，引以为傲的荣光",
+                "sidebar_position": 20,
+                "tags": [
+                  "北京",
+                  "Opera"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "心中有憾",
+                "permalink": "/docs/beijing/grandma-at-home-passed-away"
+              },
+              "next": {
+                "title": "QA Team，熟悉的你们",
+                "permalink": "/docs/beijing/opera-qa"
+              }
+            },
+            {
+              "unversionedId": "那时北京/beijing-opera-qa",
+              "id": "那时北京/beijing-opera-qa",
+              "isDocsHomePage": false,
+              "title": "QA Team，熟悉的你们",
+              "description": "2013-07-02",
+              "source": "@site/docs\\05-那时北京\\qa.md",
+              "sourceDirName": "05-那时北京",
+              "slug": "/beijing/opera-qa",
+              "permalink": "/docs/beijing/opera-qa",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\qa.md",
+              "version": "current",
+              "sidebarPosition": 25,
+              "frontMatter": {
+                "id": "beijing-opera-qa",
+                "slug": "../beijing/opera-qa",
+                "title": "QA Team，熟悉的你们",
+                "sidebar_position": 25,
+                "tags": [
+                  "北京",
+                  "Opera"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Opera Software ASA，引以为傲的荣光",
+                "permalink": "/docs/beijing/opera"
+              },
+              "next": {
+                "title": "欧朋，收获希望，一路前行",
+                "permalink": "/docs/beijing/nhorizon"
+              }
+            },
+            {
+              "unversionedId": "那时北京/beijing-wls",
+              "id": "那时北京/beijing-wls",
+              "isDocsHomePage": false,
+              "title": "Windows Live Spaces，那仅存的一丝记忆",
+              "description": "2008-03-12",
+              "source": "@site/docs\\05-那时北京\\wls.md",
+              "sourceDirName": "05-那时北京",
+              "slug": "/beijing/wls",
+              "permalink": "/docs/beijing/wls",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\wls.md",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "id": "beijing-wls",
+                "slug": "../beijing/wls",
+                "title": "Windows Live Spaces，那仅存的一丝记忆",
+                "sidebar_position": 5,
+                "tags": [
+                  "北京",
+                  "Spaces",
+                  "MSN",
+                  "WindowsLive"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "我的大学",
+                "permalink": "/docs/jut-1"
+              },
+              "next": {
+                "title": "心中有憾",
+                "permalink": "/docs/beijing/grandma-at-home-passed-away"
+              }
+            },
+            {
+              "unversionedId": "那时北京/grandma-at-home-passed-away",
+              "id": "那时北京/grandma-at-home-passed-away",
+              "isDocsHomePage": false,
+              "title": "心中有憾",
+              "description": "2010-03-01 23:03",
+              "source": "@site/docs\\05-那时北京\\grandma.md",
+              "sourceDirName": "05-那时北京",
+              "slug": "/beijing/grandma-at-home-passed-away",
+              "permalink": "/docs/beijing/grandma-at-home-passed-away",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\grandma.md",
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "id": "grandma-at-home-passed-away",
+                "slug": "../beijing/grandma-at-home-passed-away",
+                "title": "心中有憾",
+                "sidebar_position": 10,
+                "tags": [
+                  "丁沟",
+                  "奶奶"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Windows Live Spaces，那仅存的一丝记忆",
+                "permalink": "/docs/beijing/wls"
+              },
+              "next": {
+                "title": "Opera Software ASA，引以为傲的荣光",
+                "permalink": "/docs/beijing/opera"
+              }
+            },
+            {
+              "unversionedId": "附录/appendix-administrative-divisions",
+              "id": "附录/appendix-administrative-divisions",
+              "isDocsHomePage": false,
+              "title": "区划沿革",
+              "description": "被丁东村合并年份未确认",
+              "source": "@site/docs\\07-附录\\ad.md",
+              "sourceDirName": "07-附录",
+              "slug": "/appendix-administrative-divisions",
+              "permalink": "/docs/appendix-administrative-divisions",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/07-附录\\ad.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "appendix-administrative-divisions",
+                "slug": "../appendix-administrative-divisions",
+                "title": "区划沿革",
+                "sidebar_position": 1,
+                "tags": [
+                  "丁沟",
+                  "区划",
+                  "江都",
+                  "扬州"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "上海这些年",
+                "permalink": "/docs/shanghai"
+              },
+              "next": {
+                "title": "教师名录",
+                "permalink": "/docs/appendix-teachers"
+              }
+            },
+            {
+              "unversionedId": "附录/appendix-jut-campus",
+              "id": "附录/appendix-jut-campus",
+              "isDocsHomePage": false,
+              "title": "吉林工业大学校园建设和历史建筑的沿革探源",
+              "description": "修订版",
+              "source": "@site/docs\\07-附录\\jut-campus.md",
+              "sourceDirName": "07-附录",
+              "slug": "/appendix-jut-campus",
+              "permalink": "/docs/appendix-jut-campus",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/07-附录\\jut-campus.md",
+              "version": "current",
+              "sidebarPosition": 20,
+              "frontMatter": {
+                "id": "appendix-jut-campus",
+                "slug": "../appendix-jut-campus",
+                "title": "吉林工业大学校园建设和历史建筑的沿革探源",
+                "sidebar_position": 20,
+                "tags": [
+                  "JUT",
+                  "JLU",
+                  "吉林工业大学",
+                  "吉林工大",
+                  "吉林大学",
+                  "吉林大学东区",
+                  "长春",
+                  "吉林"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "教师名录",
+                "permalink": "/docs/appendix-teachers"
+              },
+              "next": {
+                "title": "吉林工业大学的 100 种死法",
+                "permalink": "/docs/appendix-jut-happy-100"
+              }
+            },
+            {
+              "unversionedId": "附录/appendix-jut-happy-100",
+              "id": "附录/appendix-jut-happy-100",
+              "isDocsHomePage": false,
+              "title": "吉林工业大学的 100 种死法",
+              "description": "再次看到 100 种死法, 怀念的是吉林工大. -- Belem",
+              "source": "@site/docs\\07-附录\\jut-campus copy.md",
+              "sourceDirName": "07-附录",
+              "slug": "/appendix-jut-happy-100",
+              "permalink": "/docs/appendix-jut-happy-100",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/07-附录\\jut-campus copy.md",
+              "version": "current",
+              "sidebarPosition": 30,
+              "frontMatter": {
+                "id": "appendix-jut-happy-100",
+                "slug": "../appendix-jut-happy-100",
+                "title": "吉林工业大学的 100 种死法",
+                "sidebar_position": 30,
+                "tags": [
+                  "JUT",
+                  "JLU",
+                  "吉林工业大学",
+                  "吉林工大",
+                  "吉林大学",
+                  "吉林大学东区",
+                  "长春",
+                  "吉林"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "吉林工业大学校园建设和历史建筑的沿革探源",
+                "permalink": "/docs/appendix-jut-campus"
+              }
+            },
+            {
+              "unversionedId": "附录/appendix-teachers",
+              "id": "附录/appendix-teachers",
+              "isDocsHomePage": false,
+              "title": "教师名录",
+              "description": "黄铁小学（幼儿班-小学四年级）",
+              "source": "@site/docs\\07-附录\\teacher.md",
+              "sourceDirName": "07-附录",
+              "slug": "/appendix-teachers",
+              "permalink": "/docs/appendix-teachers",
+              "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/07-附录\\teacher.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "appendix-teachers",
+                "slug": "../appendix-teachers",
+                "title": "教师名录",
+                "sidebar_position": 3,
+                "tags": [
+                  "丁沟",
+                  "教师"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "区划沿革",
+                "permalink": "/docs/appendix-administrative-divisions"
+              },
+              "next": {
+                "title": "吉林工业大学校园建设和历史建筑的沿革探源",
+                "permalink": "/docs/appendix-jut-campus"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          }
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          }
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ]
+        }
+      ],
+      "blogTags": {
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

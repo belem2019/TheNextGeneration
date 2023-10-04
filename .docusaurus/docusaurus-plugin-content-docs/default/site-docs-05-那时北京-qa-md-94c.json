@@ -1,0 +1,33 @@
+{
+  "unversionedId": "那时北京/beijing-opera-qa",
+  "id": "那时北京/beijing-opera-qa",
+  "isDocsHomePage": false,
+  "title": "QA Team，熟悉的你们",
+  "description": "2013-07-02",
+  "source": "@site/docs\\05-那时北京\\qa.md",
+  "sourceDirName": "05-那时北京",
+  "slug": "/beijing/opera-qa",
+  "permalink": "/docs/beijing/opera-qa",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\qa.md",
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "id": "beijing-opera-qa",
+    "slug": "../beijing/opera-qa",
+    "title": "QA Team，熟悉的你们",
+    "sidebar_position": 25,
+    "tags": [
+      "北京",
+      "Opera"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Opera Software ASA，引以为傲的荣光",
+    "permalink": "/docs/beijing/opera"
+  },
+  "next": {
+    "title": "欧朋，收获希望，一路前行",
+    "permalink": "/docs/beijing/nhorizon"
+  }
+}

@@ -1,0 +1,184 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-btn-color: rgb(255, 31, 176, 1.0);
+  --ifm-btn-color-darker: rgb(255, 21, 156, 1.0);
+  --ifm-color-primary: #19324a;
+  --ifm-color-primary-dark: #162d43;
+  --ifm-color-primary-darker: #152a3f;
+  --ifm-color-primary-darkest: #122334;
+  --ifm-color-primary-light: #1c3751;
+  --ifm-color-primary-lighter: #1d3955;
+  --ifm-color-primary-lightest: #214160;
+
+  --ifm-footer-background-color: #19324a;
+  --ifm-code-font-size: 95%;
+
+  --ifm-color-secondary: #abcbff;
+
+  --ifm-font-family-base: 'Source Sans Pro', 'Helvetica Neue', Arial,sans-serif;
+  --ifm-font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+    'Liberation Mono', 'Courier New', monospace;
+  --ifm-font-size-base: 14px;
+  -webkit-font-smoothing: antialiased;
+
+  --ifm-global-radius: 0px;
+  --ifm-button-border-radius: 0px;
+  --ifm-pagination-nav-border-radius: 0px;
+
+  --ifm-menu-link-padding-vertical: 0.5rem;
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary: #214160;
+  --ifm-color-primary-dark: #1c3751;
+  /* any other colors you wish to overwrite */
+}
+
+#webgl-canvas {
+  background: radial-gradient(
+    circle farthest-corner at center top,
+    #071021,
+    #19324a
+  );
+  z-index: 1000;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner_src-pages- {
+      padding: 10rem 0 !important;
+  }
+  /* .main-wrapper header {
+    padding: 10rem 0 !important;
+  } */
+
+  .row .col.col.col {
+    flex-basis: fit-content;
+  }
+
+  .hero .container {
+    height: 38vh;
+  }
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme='dark']  .hero--primary {
+  --ifm-hero-background-color: rgba(0, 0, 0, 0.1);
+}
+
+html[data-theme='dark'] .hero__title {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+p {
+  color: #34495e;
+  letter-spacing: 1.5px;
+  line-height: 1.8;
+}
+
+.hero--primary p {
+  color:rgba(255, 255, 255, 1.0);
+}
+
+.hero__title {
+  font-size: 2rem;
+}
+
+.hero__subtitle {
+  font-size: 1rem;
+}
+
+article header h1 {
+  font-size: 2rem !important;
+  color: #34495e;
+}
+
+.menu__link {
+  border-radius: 0rem;
+}
+
+.menu__link--sublist:after {
+  height: 0.75rem;
+  width: 0.75rem;
+}
+
+blockquote {
+  border-left: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.main-wrapper {
+  height: 100%;
+  flex: none !important;
+}
+
+.hero .container {
+  height: 57vh;
+  background: transparent;
+  z-index: 1000;
+  padding: 5rem 0;
+}
+
+.button {
+  background-color: var(--ifm-btn-color);
+  border-color: rgba(255, 255, 255, 0.8);
+  font-weight: 200;
+}
+
+.button:hover {
+  background-color: var(--ifm-btn-color-darker);
+  color:rgba(255, 255, 255, 1.0);
+  border-color:rgba(255, 255, 255, 1.0);
+}
+
+.ug {
+  box-shadow: 0 0.1rem 0.85rem rgb(0 0 0 / 25%);
+}
+
+.footer {
+  background-color: var(--ifm-footer-background-color) !important;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #19324a;
+}
+
+
+html[data-theme='dark'] .hero--primary {
+  --ifm-hero-background-color: rgba(36, 37, 38, 0.2);
+}
+
+html[data-theme='dark'] .footer--dark {
+  --ifm-footer-background-color: rgb(36, 37, 38);
+}
+
+.button.button--secondary {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.button.button--secondary:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
+.footer__link-item:hover {
+  color: rgba(255, 255, 255, 1);
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "童年/childhood",
+  "id": "童年/childhood",
+  "isDocsHomePage": false,
+  "title": "童年",
+  "description": "...",
+  "source": "@site/docs\\02-童年\\index.md",
+  "sourceDirName": "02-童年",
+  "slug": "/childhood",
+  "permalink": "/docs/childhood",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/02-童年\\index.md",
+  "version": "current",
+  "sidebar_label": "童年",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "childhood",
+    "slug": "../childhood",
+    "title": "童年",
+    "sidebar_label": "童年",
+    "sidebar_position": 2,
+    "tags": [
+      "童年",
+      "丁沟"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "楔子",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "为了皓首回眸时",
+    "permalink": "/docs/dz-recall"
+  }
+}

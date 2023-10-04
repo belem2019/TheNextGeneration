@@ -1,0 +1,34 @@
+{
+  "unversionedId": "上海这些年/shanghai",
+  "id": "上海这些年/shanghai",
+  "isDocsHomePage": false,
+  "title": "上海这些年",
+  "description": "...",
+  "source": "@site/docs\\06-上海这些年\\index.md",
+  "sourceDirName": "06-上海这些年",
+  "slug": "/shanghai",
+  "permalink": "/docs/shanghai",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/06-上海这些年\\index.md",
+  "version": "current",
+  "sidebar_label": "上海这些年",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "shanghai",
+    "slug": "../shanghai",
+    "title": "上海这些年",
+    "sidebar_label": "上海这些年",
+    "sidebar_position": 1,
+    "tags": [
+      "上海"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "欧朋，收获希望，一路前行",
+    "permalink": "/docs/beijing/nhorizon"
+  },
+  "next": {
+    "title": "区划沿革",
+    "permalink": "/docs/appendix-administrative-divisions"
+  }
+}

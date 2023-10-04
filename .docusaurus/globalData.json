@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "楔子/preface",
+          "docs": [
+            {
+              "id": "上海这些年/shanghai",
+              "path": "/docs/shanghai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "在丁中/dz-recall",
+              "path": "/docs/dz-recall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "在丁中/dz-sf",
+              "path": "/docs/dz-sf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "我的大学/jut-1",
+              "path": "/docs/jut-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "楔子/preface",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "童年/childhood",
+              "path": "/docs/childhood",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "那时北京/beijing-nhorizon",
+              "path": "/docs/beijing/nhorizon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "那时北京/beijing-opera",
+              "path": "/docs/beijing/opera",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "那时北京/beijing-opera-qa",
+              "path": "/docs/beijing/opera-qa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "那时北京/beijing-wls",
+              "path": "/docs/beijing/wls",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "那时北京/grandma-at-home-passed-away",
+              "path": "/docs/beijing/grandma-at-home-passed-away",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "附录/appendix-administrative-divisions",
+              "path": "/docs/appendix-administrative-divisions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "附录/appendix-jut-campus",
+              "path": "/docs/appendix-jut-campus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "附录/appendix-jut-happy-100",
+              "path": "/docs/appendix-jut-happy-100",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "附录/appendix-teachers",
+              "path": "/docs/appendix-teachers",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

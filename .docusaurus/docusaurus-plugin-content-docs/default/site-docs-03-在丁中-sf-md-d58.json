@@ -1,0 +1,33 @@
+{
+  "unversionedId": "在丁中/dz-sf",
+  "id": "在丁中/dz-sf",
+  "isDocsHomePage": false,
+  "title": "沈峰的只言片语",
+  "description": "2000 年 - 2003 年",
+  "source": "@site/docs\\03-在丁中\\sf.md",
+  "sourceDirName": "03-在丁中",
+  "slug": "/dz-sf",
+  "permalink": "/docs/dz-sf",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/03-在丁中\\sf.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "dz-sf",
+    "slug": "../dz-sf",
+    "title": "沈峰的只言片语",
+    "tags": [
+      "丁中",
+      "丁沟中学",
+      "沈峰",
+      "丁沟"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "为了皓首回眸时",
+    "permalink": "/docs/dz-recall"
+  },
+  "next": {
+    "title": "我的大学",
+    "permalink": "/docs/jut-1"
+  }
+}

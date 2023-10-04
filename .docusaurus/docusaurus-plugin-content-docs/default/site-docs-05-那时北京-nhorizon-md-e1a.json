@@ -1,0 +1,34 @@
+{
+  "unversionedId": "那时北京/beijing-nhorizon",
+  "id": "那时北京/beijing-nhorizon",
+  "isDocsHomePage": false,
+  "title": "欧朋，收获希望，一路前行",
+  "description": "2013-07-05",
+  "source": "@site/docs\\05-那时北京\\nhorizon.md",
+  "sourceDirName": "05-那时北京",
+  "slug": "/beijing/nhorizon",
+  "permalink": "/docs/beijing/nhorizon",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/05-那时北京\\nhorizon.md",
+  "version": "current",
+  "sidebarPosition": 26,
+  "frontMatter": {
+    "id": "beijing-nhorizon",
+    "slug": "../beijing/nhorizon",
+    "title": "欧朋，收获希望，一路前行",
+    "sidebar_position": 26,
+    "tags": [
+      "北京",
+      "nHorizon",
+      "欧朋"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QA Team，熟悉的你们",
+    "permalink": "/docs/beijing/opera-qa"
+  },
+  "next": {
+    "title": "上海这些年",
+    "permalink": "/docs/shanghai"
+  }
+}

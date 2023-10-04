@@ -1,0 +1,33 @@
+{
+  "unversionedId": "appendix/appendix-teachers",
+  "id": "appendix/appendix-teachers",
+  "isDocsHomePage": false,
+  "title": "教师名录",
+  "description": "黄铁小学（幼儿班-小学四年级）",
+  "source": "@site/docs/appendix/teacher.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix-teachers",
+  "permalink": "/docs/appendix-teachers",
+  "editUrl": "https://github.com/belem2019/thenextgeneration/doc/docs/appendix/teacher.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "appendix-teachers",
+    "slug": "../appendix-teachers",
+    "title": "教师名录",
+    "sidebar_position": 3,
+    "tags": [
+      "丁沟",
+      "教师"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "区划沿革",
+    "permalink": "/docs/appendix-administrative-divisions"
+  },
+  "next": {
+    "title": "吉林工业大学校园建设和历史建筑的沿革探源",
+    "permalink": "/docs/appendix-jut-campus"
+  }
+}
